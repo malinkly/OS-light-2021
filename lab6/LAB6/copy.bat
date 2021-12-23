@@ -1,0 +1,1 @@
+copy /z /y C:\Windows\explorer.exe \\%computername%\temp > C:\LAB\copy.bat

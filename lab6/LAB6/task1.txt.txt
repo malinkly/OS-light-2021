@@ -1,0 +1,12 @@
+chcp 1251
+systeminfo
+ver
+systeminfo | find «Доступная физическая память»
+xcopy C:\LAB6 C:\LAB6\TEST - 
+cd TEST
+dir > dir.txt
+for %i in (*) do if not "%i"=="dir.txt" del "%i"
+
+systeminfo - информация об операционной системе
+ver - версия ОС
+memory - память

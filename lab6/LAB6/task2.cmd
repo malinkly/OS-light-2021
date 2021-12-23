@@ -1,0 +1,1 @@
+xcopy /Z C:\Windows\copyfile.txt C:\LAB6\\%computername%\temp\copyfile.txt

@@ -1,0 +1,9 @@
+chcp 1251
+hostname
+mkdir DESKTOP-6E7HV23
+net share temp=C:\LAB6\DESKTOP-6E7HV23 /grant:"все",FULL - из-за русской версии использую "все"
+xcopy /Z C:\Windows\copyfile.txt C:\LAB6\\%computername%\temp\copyfile.txt
+schtasks /create /sc MINUTE /tn task2 /tr task2.cmd
+schtasks /query | find "task2"
+schtasks /delete task2
+fc C:\Windows\copyfile.txt C:\LAB6\\%computername%\temp\copyfile.txt

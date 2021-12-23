@@ -1,0 +1,1513 @@
+‘à ¢­¥­¨¥ ä ©«®¢ C:\LAB6\run1.txt ¨ C:\LAB6\RUN2.TXT
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: AppXSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ  ÿ÷? ¢«÷ÿ-ð¯ AppX (AppXSVC)
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: AudioEndpointBuilder
+'«÷Rýð¿R?_ð¿¯: ' ?ý¡¢÷R ôR¡¢ R?-ð¯ òR-?§-«¥ ¢R§?ò Windows Audio
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: AudioEndpointBuilder
+'«÷Rýð¿R?_ð¿¯: ' ?ý¡¢÷R ôR¡¢ R?-ð¯ òR-?§-«¥ ¢R§?ò Windows Audio
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Audiosrv
+'«÷Rýð¿R?_ð¿¯: Windows Audio
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Audiosrv
+'«÷Rýð¿R?_ð¿¯: Windows Audio
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: BFE
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ öÿR÷Rc ¤ð<¬¢ ÿ¦ðð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: BFE
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ öÿR÷Rc ¤ð<¬¢ ÿ¦ðð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: BITS
+'«÷Rýð¿R?_ð¿¯: "R-R÷ÿ¯ ð-¢?<<?ò¢£ÿ<¬-ÿ¯ ¡<£³öÿ ô? ?ýÿ§ð (BITS)
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: BITS
+'«÷Rýð¿R?_ð¿¯: "R-R÷ÿ¯ ð-¢?<<?ò¢£ÿ<¬-ÿ¯ ¡<£³öÿ ô? ?ýÿ§ð (BITS)
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: BrokerInfrastructure
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ð-¤ ÿ¡¢ £ò¢£ « ¤R-R÷«¥ ÿýÿ§
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: BrokerInfrastructure
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ð-¤ ÿ¡¢ £ò¢£ « ¤R-R÷«¥ ÿýÿ§
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Browser
+'«÷Rýð¿R?_ð¿¯: ? ÿ£?  òR¿ô¬®¢? R÷
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Browser
+'«÷Rýð¿R?_ð¿¯: ? ÿ£?  òR¿ô¬®¢? R÷
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: CDPSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ô<ÿ¢¤R ¿« ôRýò<®§?--«¥ £¡¢ Rc¡¢÷
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: camsvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ýð¡ô?¢§? ÿ ýR¡¢£ôÿ ò ÷R¿R³-R¡¢¯¿
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: CoreMessagingRegistrar
+'«÷Rýð¿R?_ð¿¯: CoreMessaging
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: CDPSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ô<ÿ¢¤R ¿« ôRýò<®§?--«¥ £¡¢ Rc¡¢÷
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: CryptSvc
+'«÷Rýð¿R?_ð¿¯: '<£³ö« ò ðô¢R? ÿ¤ðð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: CoreMessagingRegistrar
+'«÷Rýð¿R?_ð¿¯: CoreMessaging
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: DcomLaunch
+'«÷Rýð¿R?_ð¿¯: ?Rý£<¬ ÿô£¡òÿ ô R¦?¡¡R÷ DCOM-¡? ÷? ÿ
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: CryptSvc
+'«÷Rýð¿R?_ð¿¯: '<£³ö« ò ðô¢R? ÿ¤ðð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Dhcp
+'«÷Rýð¿R?_ð¿¯: DHCP-ò<ð?-¢
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: DcomLaunch
+'«÷Rýð¿R?_ð¿¯: ?Rý£<¬ ÿô£¡òÿ ô R¦?¡¡R÷ DCOM-¡? ÷? ÿ
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: DiagTrack
+'«÷Rýð¿R?_ð¿¯: "£-ò¦ðR-ÿ<¬-«? ÷R¿R³-R¡¢ð ý<¯ ôRýò<®§?--«¥ ôR<¬R÷ÿ¢?<?c ð ¢?<?¿?¢ ð¯
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Dhcp
+'«÷Rýð¿R?_ð¿¯: DHCP-ò<ð?-¢
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: DispBrokerDesktopSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR<ð¢ðòð R¢Rö ÿ³?-ð¯
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: DiagTrack
+'«÷Rýð¿R?_ð¿¯: "£-ò¦ðR-ÿ<¬-«? ÷R¿R³-R¡¢ð ý<¯ ôRýò<®§?--«¥ ôR<¬R÷ÿ¢?<?c ð ¢?<?¿?¢ ð¯
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Dnscache
+'«÷Rýð¿R?_ð¿¯: DNS-ò<ð?-¢
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: DispBrokerDesktopSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR<ð¢ðòð R¢Rö ÿ³?-ð¯
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: DoSvc
+'«÷Rýð¿R?_ð¿¯: ?ô¢ð¿ðÿ¦ð¯ ýR¡¢ÿ÷òð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Dnscache
+'«÷Rýð¿R?_ð¿¯: DNS-ò<ð?-¢
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: DPS
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR<ð¢ðòð ýðÿ?-R¡¢ðòð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: DoSvc
+'«÷Rýð¿R?_ð¿¯: ?ô¢ð¿ðÿ¦ð¯ ýR¡¢ÿ÷òð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: DusmSvc
+'«÷Rýð¿R?_ð¿¯: ?¡ôR<¬R÷ÿ-ð? ýÿ--«¥
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: DPS
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR<ð¢ðòð ýðÿ?-R¡¢ðòð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: EventLog
+'«÷Rýð¿R?_ð¿¯: Å£ -ÿ< ¡Rö«¢ðc Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: DusmSvc
+'«÷Rýð¿R?_ð¿¯: ?¡ôR<¬R÷ÿ-ð? ýÿ--«¥
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: EventSystem
+'«÷Rýð¿R?_ð¿¯: 'ð¡¢?¿ÿ ¡Rö«¢ðc COM+
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: EventLog
+'«÷Rýð¿R?_ð¿¯: Å£ -ÿ< ¡Rö«¢ðc Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: FontCache
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ò­¨ÿ ¨ ð¤¢R÷ Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: EventSystem
+'«÷Rýð¿R?_ð¿¯: 'ð¡¢?¿ÿ ¡Rö«¢ðc COM+
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: InstallService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ £¡¢ÿ-R÷òð Microsoft Store
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: FontCache
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ò­¨ÿ ¨ ð¤¢R÷ Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: iphlpsvc
+'«÷Rýð¿R?_ð¿¯: '¡ôR¿R?ÿ¢?<¬-ÿ¯ ¡<£³öÿ IP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: gpsvc
+'«÷Rýð¿R?_ð¿¯: ?<ð?-¢ ? £ôôR÷Rc ôR<ð¢ðòð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: KeyIso
+'«÷Rýð¿R?_ð¿¯: ?R<¯¦ð¯ ò<®§?c CNG
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: InstallService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ £¡¢ÿ-R÷òð Microsoft Store
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: LanmanServer
+'«÷Rýð¿R?_ð¿¯: '? ÷? 
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: iphlpsvc
+'«÷Rýð¿R?_ð¿¯: '¡ôR¿R?ÿ¢?<¬-ÿ¯ ¡<£³öÿ IP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: LanmanWorkstation
+'«÷Rýð¿R?_ð¿¯: ?ÿöR§ÿ¯ ¡¢ÿ-¦ð¯
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: KeyIso
+'«÷Rýð¿R?_ð¿¯: ?R<¯¦ð¯ ò<®§?c CNG
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: lfsvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ??R? ÿ¤ð§?¡òR?R ôR<R³?-ð¯
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: LanmanServer
+'«÷Rýð¿R?_ð¿¯: '? ÷? 
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: LicenseManager
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ Windows License Manager
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: LanmanWorkstation
+'«÷Rýð¿R?_ð¿¯: ?ÿöR§ÿ¯ ¡¢ÿ-¦ð¯
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: lmhosts
+'«÷Rýð¿R?_ð¿¯: ?Rý£<¬ ôRýý? ³òð NetBIOS §? ? TCP/IP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: lfsvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ??R? ÿ¤ð§?¡òR?R ôR<R³?-ð¯
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: LSM
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  <Ròÿ<¬-«¥ ¡?ÿ-¡R÷
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: LicenseManager
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ Windows License Manager
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: mpssvc
+'«÷Rýð¿R?_ð¿¯: ? ÿ-ý¿ÿ£­  Øÿ©ð¢-ðòÿ Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: lmhosts
+'«÷Rýð¿R?_ð¿¯: ?Rý£<¬ ôRýý? ³òð NetBIOS §? ? TCP/IP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: NcbService
+'«÷Rýð¿R?_ð¿¯: ?R¡ ?ý-ðò ôRýò<®§?-ðc ò ¡?¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: LSM
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  <Ròÿ<¬-«¥ ¡?ÿ-¡R÷
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: netprofm
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡ôð¡òÿ ¡?¢?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: mpssvc
+'«÷Rýð¿R?_ð¿¯: ? ÿ-ý¿ÿ£­  Øÿ©ð¢-ðòÿ Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: NgcCtnrSvc
+'«÷Rýð¿R?_ð¿¯: ?R-¢?c-?  ¡<£³ö« Microsoft Passport
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: NcbService
+'«÷Rýð¿R?_ð¿¯: ?R¡ ?ý-ðò ôRýò<®§?-ðc ò ¡?¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: NgcSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ Microsoft Passport
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: netprofm
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡ôð¡òÿ ¡?¢?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: NlaSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡÷?ý?-ðc R ôRýò<®§?--«¥ ¡?¢¯¥
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: NgcCtnrSvc
+'«÷Rýð¿R?_ð¿¯: ?R-¢?c-?  ¡<£³ö« Microsoft Passport
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: nsi
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ð-¢? ¤?c¡ÿ ¡R¥ ÿ-?-ð¯ ¡?¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: NgcSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ Microsoft Passport
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: PcaSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR¿R©-ðòÿ ôR ¡R÷¿?¡¢ð¿R¡¢ð ô R? ÿ¿¿
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: NlaSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡÷?ý?-ðc R ôRýò<®§?--«¥ ¡?¢¯¥
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: PlugPlay
+'«÷Rýð¿R?_ð¿¯: Plug and Play
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: nsi
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ð-¢? ¤?c¡ÿ ¡R¥ ÿ-?-ð¯ ¡?¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Power
+'«÷Rýð¿R?_ð¿¯: ?ð¢ÿ-ð?
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: PcaSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR¿R©-ðòÿ ôR ¡R÷¿?¡¢ð¿R¡¢ð ô R? ÿ¿¿
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: ProfSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ô R¤ð<?c ôR<¬R÷ÿ¢?<?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: PlugPlay
+'«÷Rýð¿R?_ð¿¯: Plug and Play
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: RmSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ £ô ÿ÷<?-ð¯  ÿýðR
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Power
+'«÷Rýð¿R?_ð¿¯: ?ð¢ÿ-ð?
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: RpcEptMapper
+'«÷Rýð¿R?_ð¿¯: 'RôR¡¢ÿ÷ð¢?<¬ òR-?§-«¥ ¢R§?ò RPC
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: ProfSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ô R¤ð<?c ôR<¬R÷ÿ¢?<?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: RpcSs
+'«÷Rýð¿R?_ð¿¯: "ýÿ<?--«c ÷«R÷ ô R¦?ý£  (RPC)
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: RmSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ £ô ÿ÷<?-ð¯  ÿýðR
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SamSs
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  £§?¢-«¥ ÿôð¡?c ö?Rôÿ¡-R¡¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: RpcEptMapper
+'«÷Rýð¿R?_ð¿¯: 'RôR¡¢ÿ÷ð¢?<¬ òR-?§-«¥ ¢R§?ò RPC
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Schedule
+'«÷Rýð¿R?_ð¿¯: ?<ÿ-ð R÷©ðò ÿýÿ-ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: RpcSs
+'«÷Rýð¿R?_ð¿¯: "ýÿ<?--«c ÷«R÷ ô R¦?ý£  (RPC)
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SecurityHealthService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ "??Rôÿ¡-R¡¢¬ Windows"
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SamSs
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  £§?¢-«¥ ÿôð¡?c ö?Rôÿ¡-R¡¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SEMgrSvc
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ô<ÿ¢?³?c ð NFC/ÿ©ð©?--«¥ ­<?¿?-¢R÷
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Schedule
+'«÷Rýð¿R?_ð¿¯: ?<ÿ-ð R÷©ðò ÿýÿ-ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SENS
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ £÷?ýR¿<?-ð¯ R ¡ð¡¢?¿-«¥ ¡Rö«¢ð¯¥
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SecurityHealthService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ "??Rôÿ¡-R¡¢¬ Windows"
+        'ðô                : 10  WIN32_OWN_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SgrmBroker
+'«÷Rýð¿R?_ð¿¯: ? Rò?  ¿R-ð¢R ð-?ÿ ¡ ?ý« ÷«ôR<-?-ð¯ System Guard
+        'ðô                : 10  WIN32_OWN_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SEMgrSvc
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ô<ÿ¢?³?c ð NFC/ÿ©ð©?--«¥ ­<?¿?-¢R÷
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: ShellHWDetection
+'«÷Rýð¿R?_ð¿¯: ?ô ?ý?<?-ð? RöR £ýR÷ÿ-ð¯ RöR<R§òð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SENS
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ £÷?ýR¿<?-ð¯ R ¡ð¡¢?¿-«¥ ¡Rö«¢ð¯¥
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Spooler
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ô?§ÿ¢ð
+        'ðô                : 110  WIN32_OWN_PROCESS  (interactive)
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SgrmBroker
+'«÷Rýð¿R?_ð¿¯: ? Rò?  ¿R-ð¢R ð-?ÿ ¡ ?ý« ÷«ôR<-?-ð¯ System Guard
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SSDPSRV
+'«÷Rýð¿R?_ð¿¯: ?ö-ÿ £³?-ð? SSDP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: ShellHWDetection
+'«÷Rýð¿R?_ð¿¯: ?ô ?ý?<?-ð? RöR £ýR÷ÿ-ð¯ RöR<R§òð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: StateRepository
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ  ?ôRð¢R ð¯ ¡R¡¢R¯-ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Spooler
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ô?§ÿ¢ð
+        'ðô                : 110  WIN32_OWN_PROCESS  (interactive)
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: StorSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¥ ÿ-ð<ð©ÿ
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SSDPSRV
+'«÷Rýð¿R?_ð¿¯: ?ö-ÿ £³?-ð? SSDP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SysMain
+'«÷Rýð¿R?_ð¿¯: SysMain
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: StateRepository
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ  ?ôRð¢R ð¯ ¡R¡¢R¯-ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: SystemEventsBroker
+'«÷Rýð¿R?_ð¿¯: ? Rò?  ¡ð¡¢?¿-«¥ ¡Rö«¢ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: StorSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¥ ÿ-ð<ð©ÿ
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: TabletInputService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡?-¡R -Rc ò<ÿ÷ðÿ¢£ « ð ôÿ-?<ð  £òRôð¡-R?R ÷÷Rýÿ
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SysMain
+'«÷Rýð¿R?_ð¿¯: SysMain
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Themes
+'«÷Rýð¿R?_ð¿¯: '?¿«
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: SystemEventsBroker
+'«÷Rýð¿R?_ð¿¯: ? Rò?  ¡ð¡¢?¿-«¥ ¡Rö«¢ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: TimeBrokerSvc
+'«÷Rýð¿R?_ð¿¯: ? Rò?  ÷ ?¿?-ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: TabletInputService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡?-¡R -Rc ò<ÿ÷ðÿ¢£ « ð ôÿ-?<ð  £òRôð¡-R?R ÷÷Rýÿ
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: TokenBroker
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  £§?¢-«¥ ÷?ö-ÿôð¡?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Themes
+'«÷Rýð¿R?_ð¿¯: '?¿«
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: TrkWks
+'«÷Rýð¿R?_ð¿¯: ?<ð?-¢ R¢¡<?³ð÷ÿ-ð¯ ð¿?-ð÷¨ð¥¡¯ ¡÷¯?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: TimeBrokerSvc
+'«÷Rýð¿R?_ð¿¯: ? Rò?  ÷ ?¿?-ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: UserManager
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ôR<¬R÷ÿ¢?<?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: TokenBroker
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  £§?¢-«¥ ÷?ö-ÿôð¡?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: UsoSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ R ò?¡¢ ÿ¢R ÿ Rö-R÷<?-ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: TrkWks
+'«÷Rýð¿R?_ð¿¯: ?<ð?-¢ R¢¡<?³ð÷ÿ-ð¯ ð¿?-ð÷¨ð¥¡¯ ¡÷¯?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: VaultSvc
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  £§?¢-«¥ ýÿ--«¥
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: UserManager
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ôR<¬R÷ÿ¢?<?c
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Wcmsvc
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ôRýò<®§?-ðc Windows
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: UsoSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ R ò?¡¢ ÿ¢R ÿ Rö-R÷<?-ðc
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WdiServiceHost
+'«÷Rýð¿R?_ð¿¯: "?< ¡<£³ö« ýðÿ?-R¡¢ðòð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: VaultSvc
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  £§?¢-«¥ ýÿ--«¥
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WdiSystemHost
+'«÷Rýð¿R?_ð¿¯: "?< ¡ð¡¢?¿« ýðÿ?-R¡¢ðòð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Wcmsvc
+'«÷Rýð¿R?_ð¿¯: "ð¡ô?¢§?  ôRýò<®§?-ðc Windows
+        'ðô                : 10  WIN32_OWN_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WdNisSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ô R÷? òð ¡?¢ð ÿ-¢ð÷ð £¡-Rc ô R? ÿ¿¿« Microsoft Defender
+        'ðô                : 10  WIN32_OWN_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: WdiServiceHost
+'«÷Rýð¿R?_ð¿¯: "?< ¡<£³ö« ýðÿ?-R¡¢ðòð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WinDefend
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ÿ-¢ð÷ð £¡-Rc ô R? ÿ¿¿« Microsoft Defender
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: WdiSystemHost
+'«÷Rýð¿R?_ð¿¯: "?< ¡ð¡¢?¿« ýðÿ?-R¡¢ðòð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WinHttpAutoProxySvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ÿ÷¢R¿ÿ¢ð§?¡òR?R Rö-ÿ £³?-ð¯ ÷?ö-ô Rò¡ð WinHTTP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: WdNisSvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ô R÷? òð ¡?¢ð ÿ-¢ð÷ð £¡-Rc ô R? ÿ¿¿« Microsoft Defender
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: Winmgmt
+'«÷Rýð¿R?_ð¿¯: ?-¡¢ £¿?-¢ÿ ðc £ô ÿ÷<?-ð¯ Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: WinDefend
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ÿ-¢ð÷ð £¡-Rc ô R? ÿ¿¿« Microsoft Defender
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WpnService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡ð¡¢?¿« push-£÷?ýR¿<?-ðc Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: WinHttpAutoProxySvc
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ÿ÷¢R¿ÿ¢ð§?¡òR?R Rö-ÿ £³?-ð¯ ÷?ö-ô Rò¡ð WinHTTP
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: wscsvc
+'«÷Rýð¿R?_ð¿¯: -?-¢  Rö?¡ô?§?-ð¯ ö?Rôÿ¡-R¡¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: Winmgmt
+'«÷Rýð¿R?_ð¿¯: ?-¡¢ £¿?-¢ÿ ðc £ô ÿ÷<?-ð¯ Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WSearch
+'«÷Rýð¿R?_ð¿¯: Windows Search
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: wlidsvc
+'«÷Rýð¿R?_ð¿¯: ?R¿R©-ðò ôR ÷¥Rý£ ÷ £§?¢-£® ÿôð¡¬ ?ÿcò R¡R¤¢
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: cbdhsvc_49fed
+'«÷Rýð¿R?_ð¿¯: ?R<¬R÷ÿ¢?<¬¡òÿ¯ ¡<£³öÿ ö£¤? ÿ Rö¿?-ÿ_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: WpnService
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¡ð¡¢?¿« push-£÷?ýR¿<?-ðc Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: CDPUserSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR<¬R÷ÿ¢?<¯ ô<ÿ¢¤R ¿« ôRýò<®§?--«¥ £¡¢ Rc¡¢÷_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: wscsvc
+'«÷Rýð¿R?_ð¿¯: -?-¢  Rö?¡ô?§?-ð¯ ö?Rôÿ¡-R¡¢ð
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: OneSyncSvc_49fed
+'«÷Rýð¿R?_ð¿¯: 'ð-¥ R-ðÿ¦ð¯ £<ÿ_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: WSearch
+'«÷Rýð¿R?_ð¿¯: Windows Search
+        'ðô                : 10  WIN32_OWN_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: PimIndexMaintenanceSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ òR-¢ÿò¢-«¥ ýÿ--«¥_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: wuauserv
+'«÷Rýð¿R?_ð¿¯: -?-¢  Rö-R÷<?-ð¯ Windows
+        'ðô                : 20  WIN32_SHARE_PROCESS  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: UnistoreSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¥ ÿ-?-ð¯ ýÿ--«¥ ôR<¬R÷ÿ¢?<¯_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: cbdhsvc_49fed
+'«÷Rýð¿R?_ð¿¯: ?R<¬R÷ÿ¢?<¬¡òÿ¯ ¡<£³öÿ ö£¤? ÿ Rö¿?-ÿ_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: UserDataSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ýR¡¢£ôÿ ò ýÿ--«¿ ôR<¬R÷ÿ¢?<¯_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: CDPUserSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ôR<¬R÷ÿ¢?<¯ ô<ÿ¢¤R ¿« ôRýò<®§?--«¥ £¡¢ Rc¡¢÷_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+***** C:\LAB6\RUN2.TXT
+
+?¿¯_¡<£³ö«: WpnUserService_49fed
+'«÷Rýð¿R?_ð¿¯: ?R<¬R÷ÿ¢?<¬¡òÿ¯ ¡<£³öÿ push-£÷?ýR¿<?-ðc Windows_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+*****
+
+***** C:\LAB6\run1.txt
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+***** C:\LAB6\RUN2.TXT
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+*****
+
+***** C:\LAB6\run1.txt
+
+?¿¯_¡<£³ö«: OneSyncSvc_49fed
+'«÷Rýð¿R?_ð¿¯: 'ð-¥ R-ðÿ¦ð¯ £<ÿ_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+        ?Rý_÷«¥Rýÿ_¡<£³ö«  : 0  (0x0)
+        ?R-¢ R<¬-ÿ¯_¢R§òÿ  : 0x0
+        ?³ðýÿ-ð?           : 0x0
+
+?¿¯_¡<£³ö«: PimIndexMaintenanceSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ òR-¢ÿò¢-«¥ ýÿ--«¥_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+        ?Rý_÷«¥Rýÿ_¡<£³ö«  : 0  (0x0)
+        ?R-¢ R<¬-ÿ¯_¢R§òÿ  : 0x0
+        ?³ðýÿ-ð?           : 0x0
+
+?¿¯_¡<£³ö«: UnistoreSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ¥ ÿ-?-ð¯ ýÿ--«¥ ôR<¬R÷ÿ¢?<¯_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+        ?Rý_÷«¥Rýÿ_¡<£³ö«  : 0  (0x0)
+        ?R-¢ R<¬-ÿ¯_¢R§òÿ  : 0x0
+        ?³ðýÿ-ð?           : 0x0
+
+?¿¯_¡<£³ö«: UserDataSvc_49fed
+'«÷Rýð¿R?_ð¿¯: '<£³öÿ ýR¡¢£ôÿ ò ýÿ--«¿ ôR<¬R÷ÿ¢?<¯_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+        ?Rý_÷«¥Rýÿ_¡<£³ö«  : 0  (0x0)
+        ?R-¢ R<¬-ÿ¯_¢R§òÿ  : 0x0
+        ?³ðýÿ-ð?           : 0x0
+
+?¿¯_¡<£³ö«: WpnUserService_49fed
+'«÷Rýð¿R?_ð¿¯: ?R<¬R÷ÿ¢?<¬¡òÿ¯ ¡<£³öÿ push-£÷?ýR¿<?-ðc Windows_49fed
+        'ðô                : e0  USER_SHARE_PROCESS INSTANCE  
+        'R¡¢R¯-ð?          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        ?Rý_÷«¥Rýÿ_Win32   : 0  (0x0)
+        ?Rý_÷«¥Rýÿ_¡<£³ö«  : 0  (0x0)
+        ?R-¢ R<¬-ÿ¯_¢R§òÿ  : 0x0
+        ?³ðýÿ-ð?           : 0x0
+***** C:\LAB6\RUN2.TXT
+*****
+
